@@ -1,0 +1,15 @@
+/Users/prabasadhikari/Desktop/DotNet/Projects/LZW/bin/Debug/net7.0/LZW
+/Users/prabasadhikari/Desktop/DotNet/Projects/LZW/bin/Debug/net7.0/LZW.deps.json
+/Users/prabasadhikari/Desktop/DotNet/Projects/LZW/bin/Debug/net7.0/LZW.runtimeconfig.json
+/Users/prabasadhikari/Desktop/DotNet/Projects/LZW/bin/Debug/net7.0/LZW.dll
+/Users/prabasadhikari/Desktop/DotNet/Projects/LZW/bin/Debug/net7.0/LZW.pdb
+/Users/prabasadhikari/Desktop/DotNet/Projects/LZW/obj/Debug/net7.0/LZW.csproj.AssemblyReference.cache
+/Users/prabasadhikari/Desktop/DotNet/Projects/LZW/obj/Debug/net7.0/LZW.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prabasadhikari/Desktop/DotNet/Projects/LZW/obj/Debug/net7.0/LZW.AssemblyInfoInputs.cache
+/Users/prabasadhikari/Desktop/DotNet/Projects/LZW/obj/Debug/net7.0/LZW.AssemblyInfo.cs
+/Users/prabasadhikari/Desktop/DotNet/Projects/LZW/obj/Debug/net7.0/LZW.csproj.CoreCompileInputs.cache
+/Users/prabasadhikari/Desktop/DotNet/Projects/LZW/obj/Debug/net7.0/LZW.dll
+/Users/prabasadhikari/Desktop/DotNet/Projects/LZW/obj/Debug/net7.0/refint/LZW.dll
+/Users/prabasadhikari/Desktop/DotNet/Projects/LZW/obj/Debug/net7.0/LZW.pdb
+/Users/prabasadhikari/Desktop/DotNet/Projects/LZW/obj/Debug/net7.0/LZW.genruntimeconfig.cache
+/Users/prabasadhikari/Desktop/DotNet/Projects/LZW/obj/Debug/net7.0/ref/LZW.dll
